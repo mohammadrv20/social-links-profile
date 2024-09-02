@@ -1,0 +1,106 @@
+*{
+    font-family:"Inter", sans-serif;
+}
+
+body{
+    background-color: rgb(22, 21, 21);
+}
+
+.card{
+    background-color: hsl(0, 0%, 12%);
+    width: 350px;
+    margin: 135px auto;
+    border-radius: 12px;
+}
+
+img{
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    width: 90px;
+    padding: 20px   ;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 300;
+    margin-top:-10px;    
+}
+
+h4{
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    margin-bottom: 10px;
+    margin-top:10PX ;
+}
+
+h3{
+    color: hsl(75, 94%, 57%);
+    text-align: center;
+    font-size: 12px;
+    margin-bottom: 10x;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;  
+}
+
+.github{
+    padding: 15px;
+    margin: 10px;
+    background-color: hsl(0, 0%, 20%);
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.twitter{
+    
+    padding: 15px;
+    margin: 10px;
+    background-color: hsl(0, 0%, 20%);
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.frontendmentor{
+    
+    padding: 15px;
+    margin: 10px;
+    background-color: hsl(0, 0%, 20%);
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.instagram{
+    
+    padding: 15px;
+    margin: 10px;
+    background-color: hsl(0, 0%, 20%);
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.linkdin{
+    
+    padding: 15px;
+    margin: 10px;
+    background-color: hsl(0, 0%, 20%);
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.buttons :hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
